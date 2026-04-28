@@ -53,8 +53,8 @@ The model predicts two classes:
 
 ```python
 labels_dict = {
-    0: "Mask",
-    1: "No Mask"
+    1: "Mask",
+    0: "No Mask"
 }
 ```
 
