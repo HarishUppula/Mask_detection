@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 
 st.set_page_config(page_title="Face Mask Detection", page_icon="😷", layout="centered")
 
-st.title("😷 Face Mask Detection using Webcam")
+st.title(" Face Mask Detection using Webcam")
 st.write("Click the button below to open your camera and detect whether you are wearing a mask or not.")
 
 # Load trained model
